@@ -1,2 +1,2 @@
 # Letcode-1
-This depository is to develop
+This repository is to develop for letcode practice
